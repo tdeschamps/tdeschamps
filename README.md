@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![IMG_7220](https://user-images.githubusercontent.com/6727553/108538627-4d97ce80-72df-11eb-8b53-b714e9b5b670.jpg)
+
 <!--
 **tdeschamps/tdeschamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
