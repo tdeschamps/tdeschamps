@@ -21,6 +21,6 @@ and the public MCP. I still read the code.
 - **[ai-feedback-pipeline](https://github.com/tdeschamps/ai-feedback-pipeline)** — LLM + RAG pipeline that turns raw customer feedback into categorized, matched product insights.
 - **[modjo-live-transcript](https://github.com/tdeschamps/modjo-live-transcript)** — answer a call in the browser, watch it transcribe live (Rep vs Customer). Twilio + Groq Whisper + Neon.
 
-**Find me** → [Portfolio](https://portfolio-eight-beta-6jzxhabaut.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thomasdscmps) · DMs open
+**Find me** → [Portfolio](https://nerdwithattitude.xyz) · [LinkedIn](https://www.linkedin.com/in/thomasdscmps) · DMs open
 
 <sub>ex-backend dev → product → AI-native PM. Le Wagon alum. Based in Paris. 🍅</sub>
